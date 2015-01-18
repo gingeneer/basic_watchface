@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "lukas.gygi@gmail.com",
+    "longName": "stacked",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "stacked",
+    "uuid": "222f315d-fd77-4f8b-9ca6-a7399b0b6fe1",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
